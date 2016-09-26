@@ -5,6 +5,18 @@
  Date - sep-14-2016
  app.js */
 
-body { padding-bottom: 70px; 
+body { 
+    background-image: url("Assests/dhr.jpg");
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+p { text-align: center }
+h1 { text-align: center }
+.displayPictureCenter{
+
+    margin-left:98px;
 
 }
+

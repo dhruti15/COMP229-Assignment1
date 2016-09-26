@@ -16,10 +16,15 @@
     <link href="Content/font-awesome.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="Content/app.css" rel="stylesheet" />
+    <link href="css/simple-sidebar.css" rel="stylesheet">
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+
+
 </head>
+
 <body>
+
     <form id="form1" runat="server">
 <header role="navigation">
         <nav class="navbar navbar-inverse">
@@ -48,6 +53,7 @@
   </div><!-- /.container-fluid -->
 </nav>
         </header>
+        
 
         <div role="main">
    
@@ -58,15 +64,18 @@
         <footer role="contentinfo">
   <nav class="navbar navbar-default navbar-fixed-bottom">
       <div class="container">
-          <h4>&copy; 2016 - Learn ASP.NET</h4>
+          <h4>&copy; 2016 - DHRUTI PATEL</h4>
       </div>
       
   </nav>
+
   </footer>
     </form>
     <!--java script -->
     <script src="Scripts/jquery-2.2.4.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Content/jquery.zoomooz.min.js"></script>
+  
     <script src="Scripts/app.js"></script>
 </body>
 </html>
