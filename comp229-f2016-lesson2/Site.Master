@@ -7,6 +7,7 @@
 
 <html lang="en">
 <head runat="server">
+    <link rel="shortcut icon" href="Assests/logo.png" />
     <meta charset="utf-8" />
     <meta name="viewpoint" content="width=device-width, initial-scale=1" />
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,8 +16,9 @@
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/font-awesome.min.css" rel="stylesheet" />
     <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
+    
     <link href="Content/app.css" rel="stylesheet" />
-    <link href="css/simple-sidebar.css" rel="stylesheet">
+
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 
@@ -27,7 +29,7 @@
 
     <form id="form1" runat="server">
 <header role="navigation">
-        <nav class="navbar navbar-inverse">
+        <nav class="navbar navbar-main">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -37,14 +39,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Brand</a>
+           <img class="logo" src="Assests/logo.png" />
+
+ 
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
+           
+        
         <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-          <li id="products" runat="server"><a href="Products.aspx"><i class="fa fa-th fa-lg" aria-hidden="true"></i> Product</a></li>
+          <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-th fa-lg" aria-hidden="true"></i> Product</a></li>
           <li id="services" runat="server"><a href="Services.aspx"><i class="fa fa-cog" aria-hidden="true"></i> Services</a></li>
           <li id="about" runat="server"><a href="About.aspx"><i class="fa fa-info" aria-hidden="true"></i> About Me</a></li>
           <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone" aria-hidden="true"></i> Contact Me</a></li>
@@ -54,7 +60,7 @@
 </nav>
         </header>
         
-
+        
         <div role="main">
    
         <asp:ContentPlaceHolder ID="MainContent" runat="server">
@@ -75,7 +81,11 @@
     <script src="Scripts/jquery-2.2.4.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Content/jquery.zoomooz.min.js"></script>
+    <script>
+        $(document).ready(function () { $("h1").animate({ top: '210px' }); });
+    </script>
   
-    <script src="Scripts/app.js"></script>
+
+ 
 </body>
 </html>
