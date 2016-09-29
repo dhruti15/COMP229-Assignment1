@@ -75,6 +75,9 @@
     <Content Include="Assests\kfc.jpg" />
     <Content Include="Assests\kfc_logo.png" />
     <Content Include="Assests\logo.png" />
+    <Content Include="Assests\prog.jpg" />
+    <Content Include="Assests\project.jpg" />
+    <Content Include="Assests\services.png" />
     <Content Include="Assests\sogood.jpg" />
     <Content Include="Assests\sub.jpg" />
     <Content Include="Assests\subpic.jpg" />

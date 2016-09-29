@@ -7,9 +7,10 @@
 
 body {
     color: white;
-    background-image: url('../Assests/background.jpg');
+    background-image: url('../Assests/prog.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    position: absolute;
 }
 
 h4 {
@@ -47,9 +48,7 @@ h1 {
     border-radius: 50%;
     width: 20%;
     margin-left: 18%;
-    position:absolute;
-    
-
+    position: absolute;
 }
 
 .aa {
@@ -57,8 +56,7 @@ h1 {
     width: 20%;
     float: right;
     margin-right: 98px;
-    position:absolute;
-    
+    position: absolute;
 }
 
 .bb {
@@ -66,92 +64,101 @@ h1 {
     width: 20%;
     margin-top: 15%;
     margin-left: 9%;
-    margin-right:-3px;
-    position:absolute;
-    
+    margin-right: -3px;
+    position: absolute;
+}
 
-}
 .diver {
-    margin-left:25%;
+    margin-left: 25%;
 }
+
 .transparent {
-    background-color:red;
+    background-color: red;
     height: 125px;
     width: 125px;
-    margin-top:65%;
-    margin-left:15%;
-    top:-3px;
+    margin-top: 65%;
+    margin-left: 15%;
+    top: -3px;
 }
-.zooper {
-padding-top: 62%;
-top: 210px;
-float: left;
-margin-left: 19%;
-}
-  
-   
 
-.left{
-    
-  margin-left: 9%;
-    border-radius:50%;
-    width:50%;
+.zooper {
+    padding-top: 62%;
+    top: 210px;
+    float: left;
+    margin-left: 19%;
 }
-.img{
-border-radius: 50%;
+
+
+
+.left {
+    margin-left: 9%;
+    border-radius: 50%;
+    width: 50%;
+}
+
+.img {
+    border-radius: 50%;
     width: 37%;
     margin-top: 0%;
     margin-left: 9%;
-    margin-right:-3px;
-    position:absolute;
-
+    margin-right: -3px;
+    position: absolute;
 }
-.cc{
+
+.cc {
     border-radius: 50%;
     width: 35%;
     margin-top: 0%;
     margin-left: -95%;
-    margin-right:-3px;
-    position:absolute;
+    margin-right: -3px;
+    position: absolute;
 }
-.kfc{
+
+.kfc {
     border-radius: 30%;
     width: 40%;
     margin-top: 10%;
     margin-left: 9%;
-    margin-right:-3px;
-    position:absolute;
+    margin-right: -3px;
+    position: absolute;
 }
-.sogood{
+
+.sogood {
     border-radius: 30%;
     width: 48%;
     margin-top: 10%;
     margin-left: -107%;
-    margin-right:-3px;
-    position:absolute;
+    margin-right: -3px;
+    position: absolute;
 }
-.sub{
-     margin-left: 9%;
-    border-radius:50%;
-    width:50%;
 
+.sub {
+    margin-left: 9%;
+    border-radius: 50%;
+    width: 50%;
 }
-.sub1{
+
+.sub1 {
     border-radius: 22%;
     width: 43%;
     margin-top: 15%;
     margin-left: 9%;
-    margin-right:-3px;
-    position:absolute;
-
+    margin-right: -3px;
+    position: absolute;
 }
-.sub2{
-     border-radius: 30%;
+
+.sub2 {
+    border-radius: 30%;
     width: 48%;
     margin-top: 10%;
     margin-left: -107%;
-    margin-right:-3px;
-    position:absolute;
+    margin-right: -3px;
+    position: absolute;
 }
 
+.pro {
+    margin-left: -27%;
+    height: 1%;
+    width: 29%;
+    margin-top: 33%;
 }
