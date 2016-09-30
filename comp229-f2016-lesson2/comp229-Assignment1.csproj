@@ -87,6 +87,10 @@
     <Content Include="Assests\sub.jpg" />
     <Content Include="Assests\subpic.jpg" />
     <Content Include="Assests\subway.jpg" />
+    <Content Include="Assests\WhatsApp Image 2016-09-30 at 11.48.50 AM.jpeg" />
+    <Content Include="Assests\WhatsApp Image 2016-09-30 at 11.48.54 AM.jpeg" />
+    <Content Include="Assests\WhatsApp Image 2016-09-30 at 11.50.18 AM.jpeg" />
+    <Content Include="Assests\WhatsApp Image 2016-09-30 at 11.50.25 AM.jpeg" />
     <Content Include="Content\jquery.zoomooz.min.js" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />

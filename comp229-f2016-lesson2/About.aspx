@@ -18,8 +18,8 @@
                 <hr style="margin-top: -18px; background-color: white; height: 3px" />
                 <p>
                     <img src="Assests/999.jpg" alt="" class="left" style="height: 3%;" />
-                    <img src="Assests/777.jpg" class="img" style="width: 44%; height: 19%; margin-top: 1%;" />
-                    <img src="Assests/888.jpg" class="cc" style="float: left; width: 43%; height: 1; height: 20%; margin-top: 2%;">
+                    <img src="Assests/WhatsApp Image 2016-09-30 at 11.50.25 AM.jpeg" class="img" style="width: 44%; height: 19%; margin-top: 1%;" />
+                    <img src="Assests/WhatsApp Image 2016-09-30 at 11.48.54 AM.jpeg" class="cc" style="float: left; width: 43%; height: 1; height: 20%; margin-top: 2%;">
                 </p>
                 <div>
                     <img src="Assests/tom.jpg" style="border-radius: 50%; width: 32%; margin-left: -75%; margin-top: -43%; padding-top: -43%; float: left;">
