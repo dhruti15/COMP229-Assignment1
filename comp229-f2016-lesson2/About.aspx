@@ -1,13 +1,6 @@
 ﻿<%@ Page Title="About Me" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="comp229_f2016_lesson2.About" %>
 
-<!--  
-        Name : Dhruti Patel
-   Student ID : 300857555
-        Github    : dhruti15
-       Date Created : 30 August 2016
-    Page : About Me
 
--->
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
         <div class="row kanaBana">

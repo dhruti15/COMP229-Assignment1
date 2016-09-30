@@ -1,13 +1,6 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="comp229_f2016_lesson2.Site1" %>
 
-<!--  
-        Name : Dhruti Patel
-   Student ID : 300857555
-        Github    : dhruti15
-       Date Modified : 30 August 2016
-    Page : Master Page
 
--->
 <!DOCTYPE html>
 
 <html lang="en">

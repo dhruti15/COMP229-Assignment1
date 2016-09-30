@@ -1,14 +1,6 @@
 ﻿<%@ Page Title="Contact Us" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="comp229_f2016_lesson2.Content" %>
 
 
-<!--  
-        Name : Dhruti Patel
-   Student ID : 300857555
-        Github    : dhruti15
-       Date Modified : 30 August 2016
-    Page : Contact
-
--->
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
         <div class="row kanaBana ">
