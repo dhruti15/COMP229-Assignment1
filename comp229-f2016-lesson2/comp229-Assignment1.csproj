@@ -72,6 +72,9 @@
     <Content Include="Assests\bb.jpg" />
     <Content Include="Assests\cc.jpg" />
     <Content Include="Assests\dhr.jpg" />
+    <Content Include="Assests\777.jpg" />
+    <Content Include="Assests\888.JPG" />
+    <Content Include="Assests\999.JPG" />
     <Content Include="Assests\kfc.jpg" />
     <Content Include="Assests\kfc_logo.png" />
     <Content Include="Assests\logo.png" />

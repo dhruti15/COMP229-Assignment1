@@ -8,9 +8,9 @@
         <img src="Assests/aa.jpg" class="aa"/>
         <img src="Assests/bb.jpg" class="bb" />
 
-            <img class="pro" src="Assests/project.jpg" />
-            <img src="Assests/services.png" />
-           <div class="cls" ><h1 class="zoop zooper" style="position:absolute;top:-1000px;">DHRUTI PATEL</h1>
+            <img class="pro zoopery" src="Assests/project.jpg" style="position: absolute;left: -500px;height: 22%;width: 18%;margin-left: -3%;margin-top: 22%;"/>
+            <img src="Assests/services.png" class="ser zoopery" style="width: 20%;position: absolute;left: -900px;height: 21%;margin-top: 23%;" />
+           <div class="cls" ><h1 class="zoop zooper" style="margin-left: 9%;position: absolute;top: -900px;margin-top: -21%;font-family: cursive;">DHRUTI PATEL</h1>
           
            
            

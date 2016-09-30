@@ -6,11 +6,23 @@
  app.js */
 
 body {
+    /* The image used */
+    
+
+    /* Set a specific height */
+    height: 400px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
     color: white;
     background-image: url('../Assests/prog.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
+    
 }
 
 h4 {
@@ -157,8 +169,17 @@ h1 {
 }
 
 .pro {
+    border-radius:60%;
     margin-left: -27%;
     height: 1%;
-    width: 29%;
+    width: 30%;
     margin-top: 33%;
 }
+.ser{
+     border-radius:60%;
+    margin-left: 56%;
+    width: 30%;
+    height: 1%;
+    margin-top: 33%;
+
+ }

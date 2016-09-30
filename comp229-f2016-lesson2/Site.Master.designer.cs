@@ -40,13 +40,13 @@ namespace comp229_f2016_lesson2 {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl home;
         
         /// <summary>
-        /// projects control.
+        /// about control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl projects;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl about;
         
         /// <summary>
         /// services control.
@@ -58,13 +58,13 @@ namespace comp229_f2016_lesson2 {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
         
         /// <summary>
-        /// about control.
+        /// projects control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl about;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl projects;
         
         /// <summary>
         /// contact control.

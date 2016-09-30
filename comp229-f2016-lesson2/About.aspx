@@ -16,9 +16,19 @@
                 <br />
                  <hr style="margin-top: -18px; background-color:white; height: 3px" />
                 <p>
-                    <img src="Assests/abc.jpg" alt="" class="left" />
-                    <img src="Assests/dhr.jpg" class="img" />
-                    <img src="Assests/cc.jpg" class="cc" />
+                    <img src="Assests/999.jpg" alt="" class="left" style="height: 3%;" />
+                    <img src="Assests/777.jpg" class="img" style="
+                        width: 44%;
+                        height: 19%;
+                        margin-top: 1%;
+                    " />
+                    <img src="Assests/888.jpg" class="cc" style="
+                        float: left;
+                        width: 43%;
+                        height: 1;
+                        height: 20%;
+                        margin-top: 2%;
+                    ">
                 </p>
                 <br />
                  <hr style="margin-top: -18px; background-color:white; height: 3px" />
@@ -31,6 +41,7 @@
                 <img src="Assests/abc.jpg" alt="" class="left" />
                     <img src="Assests/dhr.jpg" class="img" />
                     <img src="Assests/cc.jpg" class="cc" />
+                <br />
                 <br />
                  <hr style="margin-top: -18px; background-color:white; height: 3px" />
                 <br />
