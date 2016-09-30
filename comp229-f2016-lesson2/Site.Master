@@ -1,8 +1,13 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="comp229_f2016_lesson2.Site1" %>
-<!-- Nmae: Dhruti patel -->
-<!-- Student Id -- 300857555 -->
-<!-- Date - sep-14-2016-->
-<!-- Default.axps-->
+
+<!--  
+        Name : Dhruti Patel
+   Student ID : 300857555
+        Github    : dhruti15
+       Date Modified : 30 August 2016
+    Page : Master Page
+
+-->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -83,6 +88,7 @@
     <script src="Scripts/jquery-2.2.4.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
     <script src="Content/jquery.zoomooz.min.js"></script>
+    <!--     JQuery to scroll the objects            -->
     <script>
         $(document).ready(function () { $(".zooper").delay(900).animate({ top: '100px' },1000,'linear'); });
     </script>

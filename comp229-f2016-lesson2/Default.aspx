@@ -1,5 +1,13 @@
 ﻿<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="comp229_f2016_lesson2.Default" %>
 
+<!--  
+        Name : Dhruti Patel
+   Student ID : 300857555
+        Github    : dhruti15
+       Date Modified : 30 August 2016
+    Page : Home
+
+-->
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
         <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
