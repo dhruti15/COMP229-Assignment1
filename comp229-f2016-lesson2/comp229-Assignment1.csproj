@@ -70,6 +70,8 @@
     <Content Include="Assests\abc.jpg" />
     <Content Include="Assests\background.jpg" />
     <Content Include="Assests\bb.jpg" />
+    <Content Include="Assests\bt.PNG" />
+    <Content Include="Assests\btweb.PNG" />
     <Content Include="Assests\cc.jpg" />
     <Content Include="Assests\dhr.jpg" />
     <Content Include="Assests\777.jpg" />

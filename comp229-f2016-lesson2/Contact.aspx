@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
-        <div class="row">
+        <div class="row kanaBana ">
             <div class="col-md-offset-4 col-md-6">
 
                 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
