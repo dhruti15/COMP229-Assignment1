@@ -19,12 +19,13 @@
                 <hr style="margin-top: -18px; background-color: white; height: 3px" />
                 <p>
                     <img src="Assests/999.jpg" alt="" class="left" style="height: 3%;" />
-                    <img src="Assests/WhatsApp Image 2016-09-30 at 11.50.25 AM.jpeg" class="img" style="width: 44%; height: 19%; margin-top: 1%;" />
-                    <img src="Assests/WhatsApp Image 2016-09-30 at 11.48.54 AM.jpeg" class="cc" style="float: left; width: 43%; height: 1; height: 20%; margin-top: 2%;">
+                  
+
                 </p>
                 <div>
                     <img src="Assests/tom.jpg" style="border-radius: 50%; width: 32%; margin-left: -75%; margin-top: -43%; padding-top: -43%; float: left;">
-                    <h1 style="float: left; font-size: medium; font-family: cursive; margin-left: -71%; margin-top: -7%;">My Professor</h1>
+                    <h1 style="float: left; font-size: medium; font-family: cursive; margin-left: -71%; margin-top: -7%;">Meet My Professor</h1>
+                     <h1 style="float: left; font-size: medium; font-family: cursive; margin-left: -71%; margin-top: 0%;"><a href="https://ca.linkedin.com/in/tsiliopoulos"> TOM TISILIOPOULOS </a></h1>
                 </div>
                 <br />
                 <hr style="margin-top: -18px; background-color: white; height: 3px" />
@@ -36,7 +37,7 @@
                 <br />
                 <img src="Assests/abc.jpg" alt="" class="left" />
                 <img src="Assests/dhr.jpg" class="img" />
-                <img src="Assests/cc.jpg" class="cc" />
+                
                 <br />
                 <br />
                 <hr style="margin-top: -18px; background-color: white; height: 3px" />
